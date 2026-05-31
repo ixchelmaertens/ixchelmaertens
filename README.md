@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Alison Ixchel👋
 
-<!--
-**ixchelmaertens/ixchelmaertens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Datos en formación, apasionada por convertir datos en decisiones.
 
-Here are some ideas to get you started:
+## 🛠️ Herramientas que manejo
+- 📊 Excel / Google Sheets
+- 🗄️ SQL
+- 🐍 Python
+- 📈 IBM Cognos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+- Visualización de datos
+- Limpieza y análisis de datos con Python
+- Buenas prácticas en SQL
+
+## 📂 Proyectos
+*Próximamente — estoy construyendo mi portafolio*
+
+## 📫 Contacto
+- 📧 alisonixchel@outlook.com
+- 💼 LinkedIn: alisonixchelmaertens (www.linkedin.com/in/alisonixchelmaertens)
+- 📱 +52 999-160-6956
