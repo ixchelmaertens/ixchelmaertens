@@ -19,4 +19,3 @@
 ## 📫 Contacto
 - 📧 alisonixchel@outlook.com
 - 💼 LinkedIn: alisonixchelmaertens (www.linkedin.com/in/alisonixchelmaertens)
-- 📱 +52 999-160-6956
