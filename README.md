@@ -24,6 +24,14 @@ ingreso en marketing, con ROI menor al 18%.
 🔗 [Ver proyecto](https://github.com/ixchelmaertens/adventure-works-sql-analisis-financiero)
 
 ---
+
+### 🌆 Movilidad Urbana y Productividad Económica — LADB 2024
+**Herramientas:** Python · pandas · numpy · seaborn · matplotlib  
+**Descripción:** Pipeline completo de integración y análisis de datos TomTom + OECD para 15 ciudades latinoamericanas, con reporte ejecutivo de consultoría para el American Development Bank.  
+**Destacado:** Ciudad de México lidera congestión global superando a Tokio y Nueva York; Bogotá identificada como prioridad de inversión por congestión estructural independiente del ciclo económico.  
+🔗 [Ver proyecto](https://github.com/ixchelmaertens/movilidad-urbana-productividad-python)
+
+---
 *Más proyectos próximamente...*
 
 ## 📫 Contacto
