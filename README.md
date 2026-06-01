@@ -14,7 +14,17 @@
 - Buenas prácticas en SQL
 
 ## 📂 Proyectos
-*Próximamente — estoy construyendo mi portafolio*
+
+### 📊 Análisis del Desempeño Financiero de Adventure Works con SQL
+**Herramientas:** SQL · Google Sheets · IBM Cognos  
+**Descripción:** Análisis financiero por país y continente calculando 
+ingresos, beneficio bruto, margen y ROI de campañas de marketing.  
+**Destacado:** Identifiqué que Francia y Canadá gastaron más de 2x su 
+ingreso en marketing, con ROI menor al 18%.  
+🔗 [Ver proyecto](https://github.com/ixchelmaertens/adventure-works-sql-analisis-financiero)
+
+---
+*Más proyectos próximamente...*
 
 ## 📫 Contacto
 - 📧 alisonixchel@outlook.com
