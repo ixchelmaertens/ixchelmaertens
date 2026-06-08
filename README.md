@@ -32,6 +32,14 @@ ingreso en marketing, con ROI menor al 18%.
 🔗 [Ver proyecto](https://github.com/ixchelmaertens/movilidad-urbana-productividad-python)
 
 ---
+
+### 📱 Análisis de Comportamiento de Usuarios — ConnectaTel 2024
+**Herramientas:** Python · pandas · numpy · seaborn · matplotlib  
+**Descripción:** Pipeline completo de limpieza, segmentación y análisis de comportamiento de 4,000 clientes de una empresa de telecomunicaciones en México y Colombia.  
+**Destacado:** Identifiqué que hay más usuarios de Alto Uso en plan Básico que en Premium — oportunidad de up-selling no capitalizada por la empresa.  
+🔗 [Ver proyecto](https://github.com/ixchelmaertens/connectatel-analisis-comportamiento-usuarios)
+
+---
 *Más proyectos próximamente...*
 
 ## 📫 Contacto
