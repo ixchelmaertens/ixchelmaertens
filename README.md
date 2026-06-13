@@ -40,6 +40,14 @@ ingreso en marketing, con ROI menor al 18%.
 🔗 [Ver proyecto](https://github.com/ixchelmaertens/connectatel-analisis-comportamiento-usuarios)
 
 ---
+
+### 🛒 Análisis Correlacional de Comportamiento — NovaRetail+ 2024
+**Herramientas:** Python · pandas · numpy · scipy · seaborn · matplotlib  
+**Descripción:** Análisis correlacional de 15,000 clientes de una plataforma de e-commerce latinoamericana usando Pearson, Spearman, Punto Biserial y V de Cramér.  
+**Destacado:** Descubrí que el churn es "triple ciego" — independiente del valor económico del cliente, su región geográfica y su dispositivo de acceso.  
+🔗 [Ver proyecto](https://github.com/ixchelmaertens/novaretail-analisis-correlacional-clientes)
+
+---
 *Más proyectos próximamente...*
 
 ## 📫 Contacto
